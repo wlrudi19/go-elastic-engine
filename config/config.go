@@ -13,9 +13,9 @@ func LoanConfig() Config {
 		Database: DatabaseConfig{
 			Host:     "localhost",
 			Port:     5432,
-			Name:     "projectrudi",
-			Username: "rudilesmana",
-			Password: "rudilesmana2023",
+			Name:     "",
+			Username: "",
+			Password: "",
 		},
 	}
 }
